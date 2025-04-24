@@ -1,5 +1,5 @@
 function seleçao() {
-    const form = document.querySelector('.form');
+    const form = document.querySelector('.form')
     const resultado = document.querySelector('.resultado')
 
     const pessoas = []
