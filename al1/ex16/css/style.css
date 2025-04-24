@@ -83,18 +83,17 @@ main button {
     width: 100px;
     margin: 10px auto;
 }
-main button:hover {
-    transition-duration: .5s;
-    background-color: rgb(160, 47, 150);
-    cursor: pointer;
-}
-div#fim {
+
+div.fim {
     height: 30px;
     width: 60%;
     background-color: rgb(160, 79, 153);
     border: 1px solid white;
     border-radius: 5px;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     margin: auto;
+}
+div.fim p {
+    text-align: center;
 }
