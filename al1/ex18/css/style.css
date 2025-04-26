@@ -12,7 +12,7 @@ body {
 }
 section#titulo {
     background: rgb(133, 79, 133);
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.527);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.705);
     border-radius: 10px;
     display: flex;
     flex-flow: column nowrap;
@@ -28,7 +28,7 @@ section#titulo h1 {
     padding-bottom: 25px;
 }
 section#titulo p {
-    text-align: justify;
-    font-size: 1.05em;
+    text-align: center;
+    font-size: 1.3em;
     line-height: 20px;
 }
